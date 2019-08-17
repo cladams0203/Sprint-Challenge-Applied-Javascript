@@ -37,6 +37,12 @@ Edit this document to include your answers after each question. Make sure to lea
 4. Why would we convert a NodeList into an Array?
 
 5. What is a component?
+Answers: 
+    1.  Document Object Model.  Mutable interface between browser and user visual output
+    2.  An event is something that happens with user action or state of page changes
+    3.  an event listener waits for a specific event to occur on an element and when it does runs a block of code.
+    4.  To use array methods and other code that doesn't work with the node list
+    5.  A component is a reusable block of code.
 
 ### Git Set up
 
